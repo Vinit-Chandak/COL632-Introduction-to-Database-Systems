@@ -15,5 +15,14 @@
   9. su - postgres
   10. /usr/local/pgsql/bin/initdb -D /usr/local/pgsql/data
   11. /usr/local/pgsql/bin/postgres -D /usr/local/pgsql/data >logfile 2>&1 &
-  12. /usr/local/pgsql/bin/createdb test
+  12. /usr/local/pgsql/bin/createdb test ('test' is the name of the database)
   13. /usr/local/pgsql/bin/psql test
+
+# Steps to start the PostgreSQL server:
+1. switch to postgres user -> sudo su - postgres
+2. cd ~
+3. /usr/local/pgsql/bin/pg_ctl start -l logfile -D /usr/local/pgsql/data
+4. /usr/local/pgsql/bin/psql test 
+(You can export the paths to make this process easy)
+
+We had to submit only one file which can be found here: 

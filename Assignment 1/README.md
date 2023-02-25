@@ -1,6 +1,6 @@
-#PostgreSQL version: 8.4.22
+# PostgreSQL version: 8.4.22
 
-#Steps to set-up PostgreSQL:
+# Steps to set-up PostgreSQL:
 1. Install clang-14
 2. Download and extract the source files for PostgreSQL 8.4.22
 3. Run the following commands in the extracted directory:

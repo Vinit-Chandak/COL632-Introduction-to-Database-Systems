@@ -25,5 +25,5 @@
 4. /usr/local/pgsql/bin/psql test 
 (You can export the paths to make this process easy)
 
-## The assignment was based on Baseball dataset. The dataset comprised of pitching, hitting, and fielding statistics for US Major League Baseball from 1871 through 2014.
-## We had to submit only one file which can be found here: 
+## The assignment was based on Baseball dataset. The dataset comprised of pitching, hitting, and fielding statistics for US Major League Baseball from 1871 through 2014. The details can be found here: [Assignment 1]https://github.com/Vinit-Chandak/COL632-Introduction-to-Database-Systems/blob/main/Assignment%201/COL362_Assignment1.pdf
+## We had to submit only one file which can be found here: [2022EET2109.sql]https://github.com/Vinit-Chandak/COL632-Introduction-to-Database-Systems/blob/main/Assignment%201/2022EET2109.sql

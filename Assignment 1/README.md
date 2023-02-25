@@ -25,4 +25,5 @@
 4. /usr/local/pgsql/bin/psql test 
 (You can export the paths to make this process easy)
 
-We had to submit only one file which can be found here: 
+## The assignment was based on Baseball dataset. The dataset comprised of pitching, hitting, and fielding statistics for US Major League Baseball from 1871 through 2014.
+## We had to submit only one file which can be found here: 
